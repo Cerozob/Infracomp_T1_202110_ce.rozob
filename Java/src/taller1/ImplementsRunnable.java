@@ -1,3 +1,4 @@
+package taller1;
 
 public class ImplementsRunnable implements Runnable {
 
